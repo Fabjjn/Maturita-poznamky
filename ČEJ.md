@@ -56,7 +56,7 @@ Lakomec
 
 Farma Zvířat
 ----------
-**Autor:** George Orwell 
+**Autor:** George Orwell  
 **Umělecký směr/skupina/hnutí:** Světová literatura 20. století  
 **Literární druh:** Epika  
 **Literární forma:** Próza  
