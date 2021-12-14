@@ -7,7 +7,7 @@ Obsah
 	- [Král Lávra](#král-lávra)  
 	- [Lakomec](#lakomec)
 	- [Farma Zvířat](#farma-zvířat)
-	- [Farma Zvířat](#cizinec)
+	- [Cizinec](#cizinec)
 	
 
 Knihy
