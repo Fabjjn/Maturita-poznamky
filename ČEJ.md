@@ -6,6 +6,7 @@ Obsah
 	- [Bílá nemoc](#bílá-nemoc)  
 	- [Král Lávra](#král-lávra)  
 	- [Lakomec](#lakomec)
+	- [Farma Zvířat](#farma-zvířat)
 	
 
 Knihy
@@ -66,6 +67,26 @@ Lakomec
 
 **Děj:**  
 Harpagon má dvě děti, Elišku a Kleanta. Ty ho nemají rádi, protože všichni ví, že je bohatý, ale lakomý. Eliška je zamilovaná do Valéra a zasnoubila se s ním, bojí se požádat otce o svolení ke svatbě, takže se Eliška nejprve svěří svému bratrovi. Ten se jí také svěří, miluje chudou dívku Marianu, ale taky má strach z otce. Chtějí za otcem jít společně, ten ale začne mluvit o sňatku sám. Mluví hezky o Marianě a je rád že mu syn dává za pravdu v tom že by z ní byla dobrá manželka. Potom oznámí že si ji chce vzít on sám, Kleanta to rozhořčí. Harpagon dál řekne že jim našel vhodné protějšky. Pro svou dceru Anselma, bohatého staršího pána a pro Kleanta bohatou vdovu. Marianu k Harpagonovi dovedla Frosina, ta ale zjistí že Mariana miluje Kleanta, rozhodne se že mladému páru pomůže, protože Harpagon jí neplatil. Kleant otci oznámí jak to s Marianou má a otec se rozzlobí. Kleant jde do zahrady kde potká svého sluhu, který právě ukradl Harpagonovi kazetu se 30 000. Když to Harpagon zjistí zavolá komisaře. Jakub, kuchař a kočí obviní Valéra. Harpagon se Valéra ptá jak si to mohl dovolit. Valér mluví o Elišce, ale Harpagon o penězích, došlo k vyzrazení tajemství. Přichází Anselm, aby se oženil s Eliškou. Valér řekne Harpagonovi že je synem zesnulého hraběte Tomáše d' Alburciho z Neapole. Anselm tomu nechtěl věřit, nakonec prohlásí že on je oním hrabětem Tomášem. Po letech se setkává se synem a dcerou Marianou a se svou ženou. Harpagon je štastný protože mu Kleant vrátí 30 000 a hrabě souhlasí s oběma svatbami a Harpagon nemusí nic platit.
+
+Farma Zvířat
+----------
+**Autor:** George Orwell  
+**Umělecký směr/skupina/hnutí:** Světová literatura 20. století  
+**Literární druh:** Epika  
+**Literární forma:** Próza  
+**Žánr:** Bajka, antiutopický román  
+**Čas a prostor:** Anglie venkov, 50. léta 20. století  
+**Postavy:**  
+- **Napoleon** - prase, chytrý, podvodník, představuje Stalina
+- **Kuliš** - prase, čestný, má dobré nápady, představuje Trockého
+- **Pan Jones** - majitel farmy, alkoholik 
+- **Boxer** - kůň, pracovity, dobrosrdeční
+- **Pištík** - prase, lhář, přítel Napoleona
+- **Major** - prase, započal revoluci, představuje Lenina 
+- **Benjamin** - osel, pasivní intelektuál
+
+**Děj:**  
+Děj se odehrává na farmě, kterou vlastní pan Jones. Jednoho dnes zaponene zavřít zvířata a ty se sejdou ve stodole a tam jim Major poví o revoluci, která jedou nastane. Za několik dní zemře a zvířata se zbouří, protože se pan Johnes nenakrmil. Prasata se zmocní kontroly nad farmou a vytvoří 7 přikázání. Kuliš navrhne postavit větrný mlýn a to se nelíbý Napoleonovy a tak ho pomocí psů vyžene z farmy. Nikdo se nepostavý proti tomuto aktu, protože se bojí psů. Následně všechno špatné co se stane je svedeno na Kuliše a některá zvířata jsou obviněna ze spolupráce s ním a odsouzena k smrti. Napoleonův pomocník, prase Pištík, začne postupně měnit všechna přikázání. Prasata nakonec začnou chovat jako lidé a na konci sousední farmáře pozvou na hosti, při které je farmaři obdivují jaký přísný režim prasata nastolila.
 
 Vzor
 ----
