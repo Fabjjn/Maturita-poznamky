@@ -5,6 +5,7 @@ Obsah
 - [Knihy](#Knihy)  
 	- [Bílá nemoc](#bílá-nemoc)  
 	- [Král Lávra](#král-lávra)  
+	- [Lakomec](#lakomec)
 	
 
 Knihy
@@ -42,13 +43,13 @@ Král Lávra
 Král Lávra se nechává holit jednou do roka, holiče poté popraví. Jednou krále stříhá Kukulín, má být popraven jako ostatní před ním, když se to dozví jeho matka jde prosit o milost. Král Kukulína nepopraví, ten ale nesmí nikomu povědět co viděl při stříhání. Po čase ho začalo tajemství trápit, matka mu poradila navštívit poustevníka v lese, na jeho radu Kukulín našeptá tajemství do staré vrby, Kukulínovi se uleví. Král pořádá bál, muzikant nahradí ztracený kolíček od basy větví z oné vrby, když potom hraje basa prozradí královo tajemství - má dlouhé oslí uši. Všichni ví o králově tajemství a po čase si na jeho uši zvyknou.
 
 Lakomec
-----
-**Autor:**  
+-------
+**Autor:** Moliére  
 **Umělecký směr/skupina/hnutí:**  
-**Literární druh:**  
-**Literární forma:**  
-**Žánr:**  
-**Čas a prostor:**  
+**Literární druh:** drama  
+**Literární forma:** drama  
+**Žánr:** komedie  
+**Čas a prostor:** 17. století, Francie  
 **Postavy:**  
 **Děj:**  
 
