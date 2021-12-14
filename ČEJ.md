@@ -35,7 +35,7 @@ Král Lávra
 **Literární druh:** Epika  
 **Literární forma:** Poezie  
 **Žánr:** Poezie, pověst  
-**Čas a prostor:** Irsko (ten ostrov vedle Británie), čas neurčen  
+**Čas a prostor:** Irsko, čas neurčen  
 **Postavy:**  
 - **Král Lávra** - oblíbený a chytrý, holil se jednou do roka a holiče popravil  
 - **Kukulín** - holič který krále oholil, ale popraven nebyl
@@ -46,13 +46,27 @@ Král Lávra se nechává holit jednou do roka, holiče poté popraví. Jednou k
 Lakomec
 -------
 **Autor:** Moliére  
-**Umělecký směr/skupina/hnutí:**  
+**Umělecký směr/skupina/hnutí:** Francouzský klasicismus  
 **Literární druh:** drama  
 **Literární forma:** drama  
 **Žánr:** komedie  
 **Čas a prostor:** 17. století, Francie  
 **Postavy:**  
+- **Harpagon** - hlavní postava, lakomý vdovec, chamtivý a bezcitný, peníze jsou pro něj důležitější než rodina, bohatne lichvou, chce výhodně oženit své děti  
+- **Kleant** - syn Harpagona, mladý muž dobrých společenských způsobů
+- **Eliška** - dcera Harpagona, zamilovaná do Valéra, nechce se provdat za muže kterého jí vybral otec
+- **Mariana** - velmi krásná dívka, miluje Kleanta, skromná, působí křehce, nešťastná z Harpagona který se jí dvoří
+- **Valér** - zamilovaný do Elišky, pracuje u Harpagona jako správce, aby byl Elišce nablízku. Chce se před Harpagonem ukázat v co nejlepším světle
+- **Anselm** - navenek bohatý, starý muž, ve skutečnosti štědrý a dobrosrdečný šlechtic
+- **Frosina** - chytrá intrikářka, dohazovačka, vyzná se v rodině
+- **Štika** - Kleantův sluha, je si vědom Harpagonových vlastností
+- **Jakub** - Harpagonův kuchař, kočí a sluha, podlý a pomstychtivý
+- **Policejní komisař**
+- **Písař policejního komisaře**
+- **Harpagonovo služebnictvo**
+
 **Děj:**  
+Harpagon má dvě děti, Elišku a Kleanta. Ty ho nemají rádi, protože všichni ví, že je bohatý, ale lakomý. Eliška je zamilovaná do Valéra a zasnoubila se s ním, bojí se požádat otce o svolení ke svatbě, takže se Eliška nejprve svěří svému bratrovi. Ten se jí také svěří, miluje chudou dívku Marianu, ale taky má strach z otce. Chtějí za otcem jít společně, ten ale začne mluvit o sňatku sám. Mluví hezky o Marianě a je rád že mu syn dává za pravdu v tom že by z ní byla dobrá manželka. Potom oznámí že si ji chce vzít on sám, Kleanta to rozhořčí. Harpagon dál řekne že jim našel vhodné protějšky. Pro svou dceru Anselma, bohatého staršího pána a pro Kleanta bohatou vdovu. Marianu k Harpagonovi dovedla Frosina, ta ale zjistí že Mariana miluje Kleanta, rozhodne se že mladému páru pomůže, protože Harpagon jí neplatil. Kleant otci oznámí jak to s Marianou má a otec se rozzlobí. Kleant jde do zahrady kde potká svého sluhu, který právě ukradl Harpagonovi kazetu se 30 000. Když to Harpagon zjistí zavolá komisaře. Jakub, kuchař a kočí obviní Valéra. Harpagon se Valéra ptá jak si to mohl dovolit. Valér mluví o Elišce, ale Harpagon o penězích, došlo k vyzrazení tajemství. Přichází Anselm, aby se oženil s Eliškou. Valér řekne Harpagonovi že je synem zesnulého hraběte Tomáše d' Alburciho z Neapole. Anselm tomu nechtěl věřit, nakonec prohlásí že on je oním hrabětem Tomášem. Po letech se setkává se synem a dcerou Marianou a se svou ženou. Harpagon je štastný protože mu Kleant vrátí 30 000 a hrabě souhlasí s oběma svatbami a Harpagon nemusí nic platit.
 
 Farma Zvířat
 ----------
