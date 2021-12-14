@@ -96,7 +96,7 @@ Cizinec
 **Literární druh:** Epika  
 **Literární forma:** Próza  
 **Žánr:** román  
-**Čas a prostor:** Alžírsko, 20. století 
+**Čas a prostor:** Alžírsko, 20. století  
 **Postavy:**  
 - **Mersault** - hlavní postava, vypravěč, nedává na jevo emoce, nezúčastněný
 - **Marie** - přítelkyně Mersaulta
