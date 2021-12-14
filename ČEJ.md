@@ -74,6 +74,22 @@ Farma Zvířat
 **Děj:**  
 Děj se odehrává na farmě, kterou vlastní pan Jones. Jednoho dnes zaponene zavřít zvířata a ty se sejdou ve stodole a tam jim Major poví o revoluci, která jedou nastane. Za několik dní zemře a zvířata se zbouří, protože se pan Johnes nenakrmil. Prasata se zmocní kontroly nad farmou a vytvoří 7 přikázání. Kuliš navrhne postavit větrný mlýn a to se nelíbý Napoleonovy a tak ho pomocí psů vyžene z farmy. Nikdo se nepostavý proti tomuto aktu, protože se bojí psů. Následně všechno špatné co se stane je svedeno na Kuliše a některá zvířata jsou obviněna ze spolupráce s ním a odsouzena k smrti. Napoleonův pomocník, prase Pištík, začne postupně měnit všechna přikázání. Prasata nakonec začnou chovat jako lidé a na konci sousední farmáře pozvou na hosti, při které je farmaři obdivují jaký přísný režim prasata nastolila.
 
+Cizinec
+----------
+**Autor:** 	Albert Camus  
+**Umělecký směr/skupina/hnutí:** Světová literatura 20. století, existencionalismus  
+**Literární druh:** Epika  
+**Literární forma:** Próza  
+**Žánr:** román  
+**Čas a prostor:** Alžírsko, 20. století 
+**Postavy:**  
+- **Mersault** - hlavní postava, vypravěč, nedává na jevo emoce, nezúčastněný
+- **Marie** - přítelkyně Mersaulta
+- **Raymond** - soused Mersaulta, bije svoji arabskou přítelkyni, pasák
+
+**Děj:**  
+Mersaultovy umře matka a on o to nejeví zájem. Ten samý den si najde přítelkyni Marii a spřátelí se se sousedem Raymondem. Pak společně jedou na chatu, kde potkají bratry Raymondovy přítelkyně, kteří se jdou pomsít. Dopadne to tak, že jednoho z nich Mersault zastřelí. Na konec je u soudu, kde se nesnaží ani bránit.
+
 Vzor
 ----
 **Autor:**  
