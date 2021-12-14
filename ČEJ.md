@@ -33,7 +33,7 @@ Král Lávra
 **Literární druh:** Epika  
 **Literární forma:** Poezie  
 **Žánr:** Poezie, pověst  
-**Čas a prostor:** Irsko, čas neurčen  
+**Čas a prostor:** Irsko (ten ostrov vedle Británie), čas neurčen  
 **Postavy:**  
 - **Král Lávra** - oblíbený a chytrý, holil se jednou do roka a holiče popravil  
 - **Kukulín** - holič který krále oholil, ale popraven nebyl
