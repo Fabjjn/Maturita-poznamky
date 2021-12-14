@@ -3,8 +3,8 @@
 Obsah
 =====
 - [Knihy](#Knihy)  
-	- [Bílá nemoc](#Bílá)  
-	- [Král Lávra](#Král)  
+	- [Bílá nemoc](#bílá-nemoc)  
+	- [Král Lávra](#král-lávra)  
 	
 
 Knihy
