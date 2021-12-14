@@ -4,6 +4,7 @@ Obsah
 =====
 - [Knihy](#Knihy)  
 	- [Bílá nemoc](#bílá-nemoc)  
+	- [R.U.R.](#r.u.r.)
 	- [Král Lávra](#král-lávra)  
 	- [Lakomec](#lakomec)
 	- [Farma Zvířat](#farma-zvířat)
@@ -28,6 +29,27 @@ Bílá Nemoc
 
 **Děj:**  
 Svět zachvácen epidemií bílé nemoci. nikdo nezná příčinu nemoci, neumí ji léčit - základním příznakem bílá skvrna na hrudi. Dr. Galén najde lék, který úspěšně vyzkouší na chudých nemocných na klinice. Nikomu nechce prozradit jak léčí, pouze státu který by udržoval mír a nevedl války. Baron Krüg onemocní, doktor Galén ho nechce léčit pokud nezastaví zbrojní výrobu, ten odmítá a spáchá sebevraždu. Maršál u sebe objeví bílou skvrnu, Galén trvá na svém požadavku. Maršál na jeho podmínku přistoupí až ve vážném stavu. Galén spěchá s lékem k Maršálovi, ale před branou ho ušlape zfanatizovaný dav volající po válce, lék je ztracen.    
+
+R.U.R.
+----------
+**Autor:** 	Karel Čapek  
+**Umělecký směr/skupina/hnutí:** Česká literatura 1. polovina 20. století, sci-fi  
+**Literární druh:** drama  
+**Literární forma:** drama  
+**Žánr:** komedie  
+**Čas a prostor:** Rossumův pstrov, budoucnost  
+**Postavy:**  
+- **Helena Gloryová** - Dominova manželka, laskavá
+- **stavitel Alquist** - za největší hodnotu považuje lidský život a práci
+- **Ing. Fabry** - stavební ředitel, generální ředitel RUR
+- **Dr. Gall** - přednosta výzkumného oddělení, tajně rozvíjí inteligenci robotů
+- **Dr. Hallemeier** - přednosta Ústavu pri psychologii a výchovu robotů
+- **Busman** - komerční ředitel RUR
+- **Nána** - chůva Heleny, nemá ráda roboty
+- **Harry Domin** - cetrální ředitel R.U.R., zastánce myšleky konce práce
+
+**Děj:**  
+Za Dominem příde Helena, dcera prezidenta, a chce vidět továrnu na roboty. Nelíbí se jí jak je s nimi zacházeno. Roboti jsou následovně používáni ve válkách. Helena poprosí Dr. Galla aby dal robotům city. Roboti se vzbouží ale plány na jejich výrobu jsou zničeny. Jediný člověk, který není zabit je Alquist, protože pracuje jako robot. Roboti ho požádají aby našel plány a on i tak selže. Nakonec se najdou dva roboti, kterří mají pro sebe city.
 
 Král Lávra
 ----------
