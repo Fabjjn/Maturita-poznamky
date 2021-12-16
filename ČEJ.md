@@ -2,6 +2,7 @@
 =========================
 Obsah
 =====
+- [Charakteristika neuměleckého textu](#charakteristika-neuměleckého-textu)
 - [Knihy](#Knihy)  
 	- [Bílá nemoc](#bílá-nemoc)  
 	- [R.U.R.](#rur)
@@ -9,6 +10,23 @@ Obsah
 	- [Lakomec](#lakomec)
 	- [Farma Zvířat](#farma-zvířat)
 	- [Cizinec](#cizinec)
+	
+Charakteristika neuměleckého textu
+==================================
+I. část
+-------
+- **Souvislost výňatků** (jak spolu souvisí neumělecký a umělecký text doložit příklady)
+- **Hlavní myšlenka textu** (uveďte jaké téma text zpracovává; stanovte hlavní myšlenku textu)
+- **Porozumění textu** (stručný obsah textu)
+- **Komunikační situace** (objektivní slohotvorní činitelé: funkce projevu, prostředí a situace - kde se můžeme s textem setkat, kontakt s adresátem + pro koho je text určen, forma projevu - psanost/mluvenost, připravenost/nepřipravenost, oficiálnost/neoficiálnost, dialogičnost/monologičnost; subjektivní slohotvorní činitelé - co lze říci o autorovi textu)  
+
+II. část
+--------
+- **Funkční styl** (přiřaďte k funkčnímu stylu, doložte na základě typických znaků pro tento funkční styl)
+- **Slohový postup** (určete slohový postup, zdůvodněte)
+- **Slohový útvar** (určete slohový útvar, zdůvodněte)
+- **Kompoziční výstavba** (popište strukturu textu - horizontální a vertikální členění textu)
+- **Jazykové prostředky a jejich funkce** (hláskosloví, tvarosloví, slovní zásoba, syntax - dle jednotlivých funkčních stylů)
 	
 
 Knihy
