@@ -55,7 +55,7 @@ R.U.R.
 **Literární druh:** drama  
 **Literární forma:** drama  
 **Žánr:** komedie  
-**Čas a prostor:** Rossumův pstrov, budoucnost  
+**Čas a prostor:** Rossumův ostrov, budoucnost  
 **Postavy:**  
 - **Helena Gloryová** - Dominova manželka, laskavá
 - **stavitel Alquist** - za největší hodnotu považuje lidský život a práci
@@ -64,10 +64,10 @@ R.U.R.
 - **Dr. Hallemeier** - přednosta Ústavu pri psychologii a výchovu robotů
 - **Busman** - komerční ředitel RUR
 - **Nána** - chůva Heleny, nemá ráda roboty
-- **Harry Domin** - cetrální ředitel R.U.R., zastánce myšleky konce práce
+- **Harry Domin** - centrální ředitel R.U.R., zastánce myšlenky konce práce
 
 **Děj:**  
-Za Dominem příde Helena, dcera prezidenta, a chce vidět továrnu na roboty. Nelíbí se jí jak je s nimi zacházeno. Roboti jsou následovně používáni ve válkách. Helena poprosí Dr. Galla aby dal robotům city. Roboti se vzbouží ale plány na jejich výrobu jsou zničeny. Jediný člověk, který není zabit je Alquist, protože pracuje jako robot. Roboti ho požádají aby našel plány a on i tak selže. Nakonec se najdou dva roboti, kterří mají pro sebe city.
+Za Dominem přijde Helena, dcera prezidenta, a chce vidět továrnu na roboty. Nelíbí se jí jak je s nimi zacházeno. Roboti jsou následovně používáni ve válkách. Helena poprosí Dr. Galla aby dal robotům city. Roboti se vzbouří ale plány na jejich výrobu jsou zničeny. Jediný člověk, který není zabit je Alquist, protože pracuje jako robot. Roboti ho požádají aby našel plány a on i tak selže. Nakonec se najdou dva roboti, kteří mají pro sebe city.
 
 Král Lávra
 ----------
@@ -127,7 +127,7 @@ Farma Zvířat
 - **Benjamin** - osel, pasivní intelektuál
 
 **Děj:**  
-Děj se odehrává na farmě, kterou vlastní pan Jones. Jednoho dnes zaponene zavřít zvířata a ty se sejdou ve stodole a tam jim Major poví o revoluci, která jedou nastane. Za několik dní zemře a zvířata se zbouří, protože se pan Johnes nenakrmil. Prasata se zmocní kontroly nad farmou a vytvoří 7 přikázání. Kuliš navrhne postavit větrný mlýn a to se nelíbý Napoleonovy a tak ho pomocí psů vyžene z farmy. Nikdo se nepostavý proti tomuto aktu, protože se bojí psů. Následně všechno špatné co se stane je svedeno na Kuliše a některá zvířata jsou obviněna ze spolupráce s ním a odsouzena k smrti. Napoleonův pomocník, prase Pištík, začne postupně měnit všechna přikázání. Prasata nakonec začnou chovat jako lidé a na konci sousední farmáře pozvou na hosti, při které je farmaři obdivují jaký přísný režim prasata nastolila.
+Děj se odehrává na farmě, kterou vlastní pan Jones. Jednoho dnes zapomene zavřít zvířata a ty se sejdou ve stodole a tam jim Major poví o revoluci, která jedou nastane. Za několik dní zemře a zvířata se vzbouří, protože se pan Johnes nenakrmil. Prasata se zmocní kontroly nad farmou a vytvoří 7 přikázání. Kuliš navrhne postavit větrný mlýn a to se nelíbí Napoleonovy a tak ho pomocí psů vyžene z farmy. Nikdo se nepostaví proti tomuto aktu, protože se bojí psů. Následně všechno špatné co se stane je svedeno na Kuliše a některá zvířata jsou obviněna ze spolupráce s ním a odsouzena k smrti. Napoleonův pomocník, prase Pištík, začne postupně měnit všechna přikázání. Prasata nakonec začnou chovat jako lidé a na konci sousední farmáře pozvou na hosti, při které je farmáři obdivují jaký přísný režim prasata nastolila.
 
 Cizinec
 ----------
@@ -138,12 +138,12 @@ Cizinec
 **Žánr:** román  
 **Čas a prostor:** Alžírsko, 20. století  
 **Postavy:**  
-- **Mersault** - hlavní postava, vypravěč, nedává na jevo emoce, nezúčastněný
+- **Mersault** - hlavní postava, vypravěč, nedává najevo emoce, nezúčastněný
 - **Marie** - přítelkyně Mersaulta
 - **Raymond** - soused Mersaulta, bije svoji arabskou přítelkyni, pasák
 
 **Děj:**  
-Mersaultovy umře matka a on o to nejeví zájem. Ten samý den si najde přítelkyni Marii a spřátelí se se sousedem Raymondem. Pak společně jedou na chatu, kde potkají bratry Raymondovy přítelkyně, kteří se jdou pomsít. Dopadne to tak, že jednoho z nich Mersault zastřelí. Na konec je u soudu, kde se nesnaží ani bránit.
+Mersaultovy umře matka a on o to nejeví zájem. Ten samý den si najde přítelkyni Marii a spřátelí se se sousedem Raymondem. Pak společně jedou na chatu, kde potkají bratry Raymondovy přítelkyně, kteří se jdou pomstít. Dopadne to tak, že jednoho z nich Mersault zastřelí. Na konec je u soudu, kde se nesnaží ani bránit.
 
 Vzor
 ----
