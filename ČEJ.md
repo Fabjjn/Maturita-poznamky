@@ -12,6 +12,7 @@ Obsah
 	- [Cizinec](#cizinec)  
 	- [Sluha dvou pánů](#sluha-dvou-pánů)  
 	- [Krysař](#krysař)
+	- [Hobit aneb cesta tam a zase zpátky](#hobit-aneb-cesta-tam-a-zase-zpátky)
 	
 Charakteristika neuměleckého textu
 ==================================
@@ -190,7 +191,7 @@ Krysař přichází do Hammeln, aby město zbavil přemnožených krys. Konšel�
 Hobit aneb cesta tam a zase zpátky
 ----------------------------------
 **Autor:** John Ronald Reuel Tolkien  
-**Umělecký směr/skupina/hnutí:**  
+**Umělecký směr/skupina/hnutí:** Světová literatura 1. pol. 20. století  
 **Literární druh:** epika  
 **Literární forma:** próza  
 **Žánr:** fantasy  
