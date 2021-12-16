@@ -187,6 +187,26 @@ Krysař
 **Děj:**  
 Krysař přichází do Hammeln, aby město zbavil přemnožených krys. Konšelé mu ale odmítnou zaplatit za vyhnání krys. Krysař se seznámí s mladou dívkou Agnes, do které se hned zamiluje. Agnes jeho lásku opětuje. Krysař se dozví, že se Agnes zmocnil její bývalý milenec Kristián. Agnes ze zoufalstvím vrhla do propasti. Krysař v návalu smutku vezme svou píšťalu a začne hrát tak silně, že to přivábí všechny obyvatele města, kteří ho následují až na horu Koppel, kde všichni skončí v propasti. Jediný kdo přežije je Sepp Jörgen, na kterého kouzlo krysařovy píšťaly nepůsobí, protože ho vytrhne nářek nemluvněte. Sepp se vydá hledat ženu, která by mohla dát dítěti napít a stala se jeho matkou.
 
+Hobit aneb cesta tam a zase zpátky
+----------------------------------
+**Autor:** John Ronald Reuel Tolkien  
+**Umělecký směr/skupina/hnutí:**  
+**Literární druh:** epika  
+**Literární forma:** próza  
+**Žánr:** fantasy  
+**Čas a prostor:** fiktivní doba, Středozem  
+**Postavy:**  
+- **Bilbo Pytlík** - netypický hobit, má hobití vlastnosti (pohodlnost, pravidelnost, jídlo a luxus), mísí se v něm s touhou po dobrodružství, vynalézavostí; dobrosrdečný, přátelský, pohybuje se tiše  
+- **Gandalf** - inteligentní, moudrý, vždy si ví rady, je tam kde se něco děje, všude má přátele
+- **Thorin Pavéza** - vůdce družiny trpaslíků, hrdý, miluje bohatství, odhodlaný
+- **Thorinova družina trpaslíků (Dvalin, Balin, Kili, Fili, Dori, Nori, Ori, Oin, Gloin, Bifur, Bofur, Bombur)** - uctiví, milují své zlato, v jádru hodní
+- **Bard** - statečný, čestný
+- **Medděd** - napůl člověk, napůl medvěd, mocný a silný, nesnáší skřety
+- **Glum** - schizofrenní stvoření žijící v jeskyních, šišlající, miluje Prsten
+
+**Děj:**  
+Bilbo žije pohodlným a usedlým životem. Až do dne kdy ho navštíví Gandalf, který ho chce vzít na dobrodružnou výpravu. Bilbo pozve Gandalfa druhý den na svačinu, místo Gandalfa se u něj ale objeví 13 trpaslíků a nakonec i Gandalf sám. Trpaslíci považují Bilba za lupiče a najmou si ho na svoji výpravu za znovu-získáním zlata, které ukradl drak Šmak jejich předkům. Družina cestou přemůže zlobry, potom putují mlžnými horami, kde jsou přepadeni skřety a přijdou o všechny své zásoby. Bilbo v horách najde prsten který mu umožní být neviditelný. Na útěku před skřety jsou přepadeni vrrky a v poslední chvíli je zachrání orli. S pomocí orlů se dostanou k Meddědovi, kde nějakou dobu zůstanou, potom se vydají na cestu Temným hvozdem. Navzdory radám Medděda a Gandalfa, který je před vstupem do Temného hvozdu opouští sejdou ze stezky. Bilbo zachrání trpaslíky a pobije smečku velkých pavouků. Vyhladovělí a unavení se dostanou k lesním elfům kteří se k nim nechovají příliš přátelsky. Odtud prchnou ukrytí v sudech a dostanou se do jezerního města Esgarot. Následně se vypraví k Šmakovi a Osamělé hoře. Drak se o nich dozví a když je nemůže najít, zaměří svůj hněv na jezerní lidi. Zničí město a v poslední chvíli je zabit Bardem. Lidé a elfové vyžadují na trpaslících kompenzaci, Thorin pohlcený chamtivostí se ale nechce vzdát ani kousku zlata. Bilbo jim dá svůj podíl, Thorin zuří. Zavolá na pomoc trpaslíky z Morie. S nimi dorazí i skřetí armáda. Odehrává se bitva 5 armád ve které umírá Thorin a několik dalších trpaslíků. Bilbo se může vrátit domů. Po návratu Bilbo zjistí že ho pokládali za mrtvého a začali rozebírat jeho věci. Vše odkoupí zpět a vrátí se k poklidnému životu.
+
 Vzor
 ----
 **Autor:**  
