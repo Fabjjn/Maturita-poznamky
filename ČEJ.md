@@ -7,9 +7,11 @@ Obsah
 	- [Bílá nemoc](#bílá-nemoc)  
 	- [R.U.R.](#rur)
 	- [Král Lávra](#král-lávra)  
-	- [Lakomec](#lakomec)
-	- [Farma Zvířat](#farma-zvířat)
-	- [Cizinec](#cizinec)
+	- [Lakomec](#lakomec)  
+	- [Farma Zvířat](#farma-zvířat)  
+	- [Cizinec](#cizinec)  
+	- [Sluha dvou pánů](#sluha-dvou-pánů)  
+	- [Krysař](#krysař)
 	
 Charakteristika neuměleckého textu
 ==================================
@@ -166,6 +168,24 @@ Sluha dvou pánů
 
 **Děj:**  
 Clarice a Silvio se zasnoubí, následně se objeví Truffaldino a tvrdí že jeho pán - Frederigo Rasponi chce přijít dovnitř. V domě nastane rozruch, Frederigo má být mrtvý. Pantalone mu kdysi slíbil za ženu Clarici, ale když se dozvěděl, že zemřel v souboji Clarici zasnoubil se Silviem. Pozvou Frederiga, který je ve skutečnosti jeho sestra Beatrice v převleku, všichni až na Brighellu převleku uvěří, ten ale mlčí a Frederiga ubytuje v hostinci. Truffaldino čeká venku a vidí neschopného Florindova sluhu, pomůže mu a nechá se najmout. Od této chvíle je sluha dvou pánů. Beatrice přijela aby našla Florinda - svého milence, který v souboji zabil Frederiga. Vysvětlí Clarici že si ji nechce vzít a prozradí svou totožnost. Florindo pošle Truffaldina na poštu pro dopisy, cestou potká Beatrici, která ho také pošle pro dopisy. Truffaldino neumí číst a tak neví který dopis patří komu, dá tedy všechny dopisy Florindovi a ten ať mu vrátí dopisy které mu nepatří. Florindo si všimne Beatriciny adresy a zeptá se odkud dopis vzal. Truffaldino se vymluví na jiného sluhu, kterému dopis vyzvedl. Silviův otec Palmiro jde za Pantalonem, aby zjistil jak se věci mají. Pohádají se a Palmiro vše řekne synovi. Silvio se naštve a na Pantalona tasí kord. V tu chvíli přijde Beatrice a přemůže Silvia, chce ho zabít, ale Clarice ji poprosí ať to nedělá. Beatrice ustoupí pod podmínkou že Clarice Silviovi nic neřekne, všichni jdou domů. Beatrice pozve Pantaloneho na oběd, ve stejnou chvíli chce ale obědvat i Florindo. Truffaldino musí všechny obsloužit a neprozradit se přitom. Odpoledne má Truffaldino vybalit oběma kufry. V rozrušení poplete jejich věci a Florindo najde ve svém kabátě podobiznu, kterou dal kdysi Beatrici. Ptá se kde ji vzal, Truffaldino řekne že byl kdysi jejím sluhou, ale jeho paní zemřela. Florindo je zklamaný a smutný, podobná situace nastane u Beatrice, která najde Florindovi obchodní dopisy. Truffaldino opět řekne, že jsou jeho bývalého pána, který zemřel. Oba vyjdou z pokojů a chystají se neštěstím probodnout, když se najednou uvidí. Vše se vysvětlí a Truffaldino si vymyslí fiktivního sluhu, který sloužil Florindovi. Beatrice vše vysvětlí i ostatním a Silvio s Claricí se opět zasnoubí. Truffaldino miluje Claricinu služebnou Smeraldinu a tak poprosí Florinda, aby se zeptal zda si ji může vzít. Pantalone souhlasí. Po chvíli se na to stejné zeptá Clarice, které to řekla Beatrice, Pantalone však nemůže souhlasit, neboť už dal slovo Florindovi. Truffaldino se tedy musí přiznat, že je sluhou Florinda i Beatrice.
+
+Krysař
+------
+**Autor:** Viktor Dyk  
+**Umělecký směr/skupina/hnutí:** Buřiči  
+**Literární druh:** Epika  
+**Literární forma:** Próza  
+**Žánr:** novela (odehrává se v krátkém časovém úseku)  
+**Čas a prostor:** doba neurčitá, město Hammeln  
+**Postavy:**  
+- **Krysař** - tajemný cizinec, samotář, ponurý pesimistický podivín, miluje Agnes, vyhání krysy z měst; do Hammeln přišel vyhnat krysy
+- **Agnes** - mladá a krásná, milenka Krysaře a zároveň dlouhého Kristiána; miluje krysaře
+- **Dlouhý Kristián** - mladík toužící po spokojeném průměrném životě
+- **Sepp Jörgen** - chudý rybář, který všechno chápe až druhý den
+- **Konšelé Strumm a Frosch** - chamtivý, podlí, neschopní dodržet slib
+
+**Děj:**  
+Krysař přichází do Hammeln, aby město zbavil přemnožených krys. Konšelé mu ale odmítnou zaplatit za vyhnání krys. Krysař se seznámí s mladou dívkou Agnes, do které se hned zamiluje. Agnes jeho lásku opětuje. Krysař se dozví, že se Agnes zmocnil její bývalý milenec Kristián. Agnes ze zoufalstvím vrhla do propasti. Krysař v návalu smutku vezme svou píšťalu a začne hrát tak silně, že to přivábí všechny obyvatele města, kteří ho následují až na horu Koppel, kde všichni skončí v propasti. Jediný kdo přežije je Sepp Jörgen, na kterého kouzlo krysařovy píšťaly nepůsobí, protože ho vytrhne nářek nemluvněte. Sepp se vydá hledat ženu, která by mohla dát dítěti napít a stala se jeho matkou.
 
 Vzor
 ----
